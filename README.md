@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Azure
 
 ## Education
-- Ph.D. (Combined Ms-Ph.D.), Architectural | Kyung Hee University (_August 2023_)				        		
-- B.Sc., Computer | JNTU (_June 2018_)
+Ph.D. (Combined Ms-Ph.D.), Architectural | Kyung Hee University (_August 2023_)				        		
+B.Sc., Computer | JNTU (_June 2018_)
 
 ## Work Experience
 **AI Engineer @ Autosemantics, Inc. (_July 2023 - Present_)**
