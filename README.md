@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Azure
 
 ## Education
-- Ph.D. (Combined M.Sc.-Ph.D., Architectural Engineering | Kyung Hee University (August 2023)
+- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (August 2023)
 - B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (June 2018)
 
 ## Work Experience
