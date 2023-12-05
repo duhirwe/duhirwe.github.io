@@ -3,8 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Azure
 
 ## Education
-- Ph.D. (Combined Ms-Ph.D.), Architectural Engineering| Kyung Hee University (August 2023)
-- B.Sc., Computer Engineering | Jawaharlal Nehru Technological University (June 2018)
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **AI Engineer @ Autosemantics, Inc. (_July 2023 - Present_)**
