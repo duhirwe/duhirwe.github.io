@@ -3,17 +3,25 @@
 #### Technical Skills: Python, SQL, AWS, Azure
 
 ## Education
-- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (August 2023)
-- B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (June 2018)
+- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_)
+- B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (_June 2018_)
 
 ## Work Experience
 **AI Engineer @ Autosemantics, Inc. (_July 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Data Analysis and Modeling:
+    - Collecting measured data and conducting comprehensive exploratory data analysis to uncover underlying patterns and insights.
+    - Applying statistical methods and predictive analytics to interpret complex data, with a focus on actionable outcomes.
+    - Developing and refining machine learning models to drive data-driven decision-making and improve operational efficiencies.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Energy Consumption Optimization:
+    - Designing and deploying AI-powered control systems for HVAC operations using reinforcement learning, aimed at reducing energy consumption in commercial buildings such as office complexes, retail stores, and cultural centers.
+    - Utilizing predictive scheduling and adaptive controls to enhance energy efficiency while ensuring compliance with environmental standards and comfort requirements.
+
+**Research assistant @ Human Behaviour and Energy Lab (_March 2019 - July 2023_)**
+- Energy Benchmarking for Korean Government Buildings (2020-2023): Managed data collection, analysis, and deep learning-based energy benchmarking model development. Funded by the Korea Institute of Energy Technology Evaluation and Planning.
+- Proactive Control Technology for Air Conditioning Energy Efficiency (2021-2023): Managed data analysis and deep reinforcement learning control development. Funded by the Korean Society of Living Environmental System.
+- Development of a Clean Ventilation Heat Recovery System for Buildings to Respond to Fine Dust (2019-2021): Managed data collection, statistical analysis, heuristic control development, and dashboard creation. Funded by the Korea Institute of Energy Technology Evaluation and Planning.
+lied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -30,15 +38,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
