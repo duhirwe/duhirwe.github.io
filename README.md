@@ -41,15 +41,16 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Publications
-1.Duhirwe, P. N., Ngarambe, J., & Yun, G. Y. (2023). Energy-efficient virtual sensor-based deep reinforcement learning control of indoor CO2 in a kindergarten. Frontiers of Architectural Research, 12(2), 394-409.[Link](https://doi.org/10.1016/j.foar.2022.10.003)
-2. 
-3. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-4. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-5. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-6. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-7. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-8. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-9. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-10. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Duhirwe, P. N., Ngarambe, J., & Yun, G. Y. (2023). Energy-efficient virtual sensor-based deep reinforcement learning control of indoor CO2 in a kindergarten. Frontiers of Architectural Research, 12(2), 394-409.[Link](https://doi.org/10.1016/j.foar.2022.10.003)
+2. Duhirwe, P. N., Ngarambe, J., & Yun, G. Y. (2022). Geographically extended occupant clothing behavior model using convolutional neural networks with hyperband technique. Journal of Building Engineering, 49, 104023. [Link](https://doi.org/10.1016/j.jobe.2022.104023)
+3. Duhirwe, P. N., Hwang, J. K., Ngarambe, J., Kim, S., Kim, K., Song, K., & Yun, G. Y. (2021). A novel deep learning‐based integrated photovoltaic, energy storage system and electric heat pump system: Optimising energy usage and costs. International Journal of Energy Research, 45(6), 9306-9325. [Link](https://doi.org/10.1016/j.buildenv.2023.110276)
+4. Ngarambe, J., Duhirwe, P. N., Van Quang, T., Nzarigema, J. D. A., & Yun, G. Y. (2023). Coupling convolutional neural networks with gated recurrent units to model illuminance distribution from light pipe systems. Building and Environment, 237, 110276. [Link](https://doi.org/10.1016/j.buildenv.2023.110276)
+5. Ulpiani, G., Duhirwe, P. N., Yun, G. Y., & Lipson, M. J. (2022). Meteorological influence on forecasting urban pollutants: Long-term predictability versus extreme events in a spatially heterogeneous urban ecosystem. Science of The Total Environment, 814, 152537. [Link](https://doi.org/10.1016/j.scitotenv.2021.152537)
+6. Hwang, J. K., Duhirwe, P. N., Yun, G. Y., Lee, S., Seo, H., Kim, I., & Santamouris, M. (2020). A novel hybrid deep neural network model to predict the refrigerant charge amount of heat pumps. Sustainability, 12(7), 2914. [Link](https://doi.org/10.3390/su12072914)
+7. Yun, G. Y., Ngarambe, J., Duhirwe, P. N., Ulpiani, G., Paolini, R., Haddad, S., ... & Santamouris, M. (2020). Predicting the magnitude and the characteristics of the urban heat island in coastal cities in the proximity of desert landforms. The case of Sydney. Science of The Total Environment, 709, 136068. [Link](https://doi.org/10.1016/j.scitotenv.2019.136068)
+8. Oh, J. W., Ngarambe, J., Duhirwe, P. N., Yun, G. Y., & Santamouris, M. (2020). Using deep-learning to forecast the magnitude and characteristics of urban heat island in Seoul Korea. Scientific reports, 10(1), 3559. [Link](https://doi.org/10.1038/s41598-020-60632-z)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Languages
+- English
+- French
+- Kinyarwanda
