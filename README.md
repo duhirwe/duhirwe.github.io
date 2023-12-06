@@ -1,9 +1,20 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Azure
+### Skills
+- Exploratory data analysis
+- Regression analysis
+- Advanced machine learning modeling
+- Statistical analytics
+- Causal inference
+- Explainable AI
+- Reinforcement Learning
+- Python, R, SQL, SPSS, TensorFlow, AWS, Azure
+- Strong analytical and data interpretation skills
+- Excellent communication skills
+- Ability to manage priorities and cross-functional collaboration
 
 
-## Work Experience
+## Experience
 **AI Engineer @ Autosemantics, Inc. (_July 2023 - Present_)**
 - Data Analysis and Modeling:
     - Collecting measured data and conducting comprehensive exploratory data analysis to uncover underlying patterns and insights.
@@ -20,6 +31,15 @@
 - Development of a Clean Ventilation Heat Recovery System for Buildings to Respond to Fine Dust (2019-2021): Managed data collection, statistical analysis, heuristic control development, and dashboard creation. Funded by the Korea Institute of Energy Technology Evaluation and Planning.
 lied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+## Education
+- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_)
+- B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (_June 2018_)
+
+## Certificates
+1. Google Advanced Data Analytics
+   
+![Certificate](/assets/img/google_certificate.png)
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -35,14 +55,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Education
-- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_)
-- B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (_June 2018_)
 
-## Certificates
-1. Google Advanced Data Analytics
-   
-![Certificate](/assets/img/google_certificate.png)
 
 ## Publications
 1. Duhirwe, P. N., Ngarambe, J., & Yun, G. Y. (2023). Energy-efficient virtual sensor-based deep reinforcement learning control of indoor CO2 in a kindergarten. Frontiers of Architectural Research, 12(2), 394-409.[Link](https://doi.org/10.1016/j.foar.2022.10.003)
