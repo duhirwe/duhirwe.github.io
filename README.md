@@ -41,7 +41,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Certificates
 1. Google Advanced Data Analytics
-![Google certificate](/assets/img/Coursera G5THX9FVYBM3-1.png)
+   
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Publications
 1. Duhirwe, P. N., Ngarambe, J., & Yun, G. Y. (2023). Energy-efficient virtual sensor-based deep reinforcement learning control of indoor CO2 in a kindergarten. Frontiers of Architectural Research, 12(2), 394-409.[Link](https://doi.org/10.1016/j.foar.2022.10.003)
