@@ -17,13 +17,13 @@
 ## Experience
 **AI Engineer @ Autosemantics, Inc. (_July 2023 - Present_)**
 - Data Analysis and Modeling:
-    - Collecting measured data and conducting comprehensive exploratory data analysis to uncover underlying patterns and insights.
-    - Applying statistical methods and predictive analytics to interpret complex data, with a focus on actionable outcomes.
-    - Developing and refining machine learning models to drive data-driven decision-making and improve operational efficiencies.
+    - <div align="justify">Collecting measured data and conducting comprehensive exploratory data analysis to uncover underlying patterns and insights.</div>
+    - <div align="justify">Applying statistical methods and predictive analytics to interpret complex data, with a focus on actionable outcomes.</div>
+    - <div align="justify">Developing and refining machine learning models to drive data-driven decision-making and improve operational efficiencies.</div>
 
 - Energy Consumption Optimization:
-    - Designing and deploying AI-powered control systems for HVAC operations using reinforcement learning, aimed at reducing energy consumption in commercial buildings such as office complexes, retail stores, and cultural centers.
-    - Utilizing predictive scheduling and adaptive controls to enhance energy efficiency while ensuring compliance with environmental standards and comfort requirements.
+    - <div align="justify">Designing and deploying AI-powered control systems for HVAC operations using reinforcement learning, aimed at reducing energy consumption in commercial buildings such as office complexes, retail stores, and cultural centers.</div>
+    - <div align="justify">Utilizing predictive scheduling and adaptive controls to enhance energy efficiency while ensuring compliance with environmental standards and comfort requirements.</div>
 
 
 
@@ -35,8 +35,7 @@
   
 
 ## Education
-- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_)
-    - Dissertation: Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort.
+- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_). Dissertation: Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort.
   
 - B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (_June 2018_)
 
