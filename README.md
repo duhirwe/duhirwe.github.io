@@ -36,7 +36,7 @@
 
 ## Education
 - **Integrated M.Sc.-Ph.D.**
-    - _Focus_: AI in the built environment. Dissertation: "Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort".
+    - <div align="justify">_Focus_: AI in the built environment. Dissertation: "Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort".</div>
     - _Department_: Architectural Engineering
     - _University_: Kyung Hee University
     - _Date_: August 2023.
