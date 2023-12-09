@@ -26,10 +26,10 @@
     - Utilizing predictive scheduling and adaptive controls to enhance energy efficiency while ensuring compliance with environmental standards and comfort requirements.
 
 **Research assistant @ Human Behaviour and Energy Lab (_March 2019 - July 2023_)**
-- Energy Benchmarking for Korean Government Buildings (2020-2023): Managed data collection, analysis, and deep learning-based energy benchmarking model development. Funded by the Korea Institute of Energy Technology Evaluation and Planning.
-- Proactive Control Technology for Air Conditioning Energy Efficiency (2021-2023): Managed data analysis and deep reinforcement learning control development. Funded by the Korean Society of Living Environmental System.
-- Development of a Clean Ventilation Heat Recovery System for Buildings to Respond to Fine Dust (2019-2021): Managed data collection, statistical analysis, heuristic control development, and dashboard creation. Funded by the Korea Institute of Energy Technology Evaluation and Planning.
-lied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Energy Benchmarking for Korean Government Buildings (2020-2023): Managed data collection, analysis, and deep learning-based energy benchmarking model development. An AI-based energy benchmarking model was developed to help assess building energy consumption and derive improvement measures. The Korea Institute of Energy Technology Evaluation and Planning funded this project.
+- Proactive Control Technology for Air Conditioning Energy Efficiency (2021-2023): Managed data analysis and deep reinforcement learning control development. The developed control reduced cooling energy consumption by around 13% when tested in an office building in Seoul. This project was funded by the Korean Society of Living Environmental System.
+- Development of a Clean Ventilation Heat Recovery System for Buildings to Respond to Fine Dust (2019-2021): Managed data collection, statistical analysis, heuristic control development, and dashboard creation. The developed machine learning control was able to maintain indoor air quality and thermal comfort within acceptable ranges once deployed in a kindergarten located in Seoul. The Korea Institute of Energy Technology Evaluation and Planning funded this project.
+  
 
 ## Education
 - Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_)
