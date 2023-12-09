@@ -35,9 +35,16 @@
   
 
 ## Education
-- Ph.D. (Combined M.Sc.-Ph.D.), Architectural Engineering | Kyung Hee University (_August 2023_). Dissertation: Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort.
+- Integrated M.Sc.-Ph.D.
+    - _Focus_: AI in the built environment. Dissertation: "Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort".
+    - _Department_: Architectural Engineering
+    - University: Kyung Hee University
+    - _Date_: August 2023.
   
-- B.Sc., Computer Science and Engineering | Jawaharlal Nehru Technological University (_June 2018_)
+- Bachelor of Technology
+    - _Department_: Computer Science and Engineering
+    - _University_: Jawaharlal Nehru Technological University
+    - _Date_: June 2018
 
 ## Certificates
 1. Google Advanced Data Analytics
