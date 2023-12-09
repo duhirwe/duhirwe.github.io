@@ -16,12 +16,12 @@
 
 ## Experience
 **AI Engineer @ Autosemantics, Inc. (_July 2023 - Present_)**
-- Data Analysis and Modeling:
+- **Data Analysis and Modeling:**
     - <div align="justify">Collecting measured data and conducting comprehensive exploratory data analysis to uncover underlying patterns and insights.</div>
     - <div align="justify">Applying statistical methods and predictive analytics to interpret complex data, with a focus on actionable outcomes.</div>
     - <div align="justify">Developing and refining machine learning models to drive data-driven decision-making and improve operational efficiencies.</div>
 
-- Energy Consumption Optimization:
+- **Energy Consumption Optimization:**
     - <div align="justify">Designing and deploying AI-powered control systems for HVAC operations using reinforcement learning, aimed at reducing energy consumption in commercial buildings such as office complexes, retail stores, and cultural centers.</div>
     - <div align="justify">Utilizing predictive scheduling and adaptive controls to enhance energy efficiency while ensuring compliance with environmental standards and comfort requirements.</div>
 
@@ -35,13 +35,13 @@
   
 
 ## Education
-- Integrated M.Sc.-Ph.D.
+- **Integrated M.Sc.-Ph.D.**
     - _Focus_: AI in the built environment. Dissertation: "Machine Learning-based Causal Inference in Buildings: Understanding key drivers for energy usage and occupant thermal comfort".
     - _Department_: Architectural Engineering
-    - University: Kyung Hee University
+    - _University_: Kyung Hee University
     - _Date_: August 2023.
   
-- Bachelor of Technology
+- **Bachelor of Technology**
     - _Department_: Computer Science and Engineering
     - _University_: Jawaharlal Nehru Technological University
     - _Date_: June 2018
