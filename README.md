@@ -52,7 +52,7 @@
 ![Certificate](/assets/img/google_certificate.png)
 
 ## Data Analytics Projects
-1. **Classification of TikTok videos:** Used statsmodels and scikit-learn to predict whether videos presented claims or opinions to improve the triaging process of videos for human review.
+1. <div align="justify">**Classification of TikTok videos:** Used statsmodels and scikit-learn to predict whether videos presented claims or opinions to improve the triaging process of videos for human review.</div>
 2. **Classification of Waze data:** Built decision tree, random forest, and XGBoost to predict Waze user churn.
 3. **Taxi fare prediction:** Used multiple regression to predict taxi fares, data that would be used as part of a suite of models to optimize revenue for the New York Taxi and Limousine Commission and its drivers.
 
