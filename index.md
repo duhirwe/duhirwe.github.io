@@ -7,7 +7,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></td>
     <td ><img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></td>
     <td><img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/></td>
   </tr>
