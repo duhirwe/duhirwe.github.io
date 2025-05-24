@@ -16,7 +16,7 @@
     <td><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/dplyr-276DC3?logo=r&logoColor=white"/></td>
