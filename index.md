@@ -37,13 +37,15 @@
     <td><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/MLOps-323232?logo=mlflow&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/></td>
   </tr>
-</table>
+</table><br>
 
 ## Past Projects
 ### Reinforcement Learning
 <center><img src="images/RL.png"/></center>
-<p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/></p>
 <div style="text-align: justify">This project aimed at developing and implementing AI-powered HVAC systems to optimize energy efficiency in commercial buildings. By leveraging advanced machine learning algorithms and real-time data analysis, the system dynamically adjusted heating, ventilation, and air conditioning settings to match occupancy patterns and environmental conditions. As a result, energy consumption was reduced by 13-23%, contributing to significant cost savings and sustainability improvements. This initiative not only enhanced operational efficiency but also set new benchmarks for energy optimization in the industry.</div>
 
 
